@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdoElwahdh
+- 👋 Hi, I’m @AbdoElwahsh
 - 👀 I’m interested in DataScience, AI ,Web development and language learning 
 - 🌱 I’m currently learning web crawling/scraping, Data analysis, machine Learning 
 - 💞️ I’m looking to collaborate on Data and Machine Learning projects
